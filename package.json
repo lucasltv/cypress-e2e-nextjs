@@ -2,9 +2,7 @@
   "private": true,
   "scripts": {
     "e2e": "cypress open --e2e",
-    "e2e:headless": "cypress run --e2e",
-    "component": "cypress open --component",
-    "component:headless": "cypress run --component"
+    "e2e:headless": "cypress run --e2e"
   },
   "devDependencies": {
     "@types/node": "20.8.8",
